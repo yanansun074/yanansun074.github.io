@@ -1,0 +1,48 @@
+p{
+
+    color: rgb(172, 83, 83);
+
+    font-size: 18px;
+
+    height: 75%;
+
+    width: 400px;
+
+    font-family: 'Source Code Pro', monospace;
+
+    text-shadow: 4px 4px 4px #aaa;
+
+    } 
+
+
+    #main {
+
+        position: absolute; top: 100px; left: 525px;
+        background-color: silver; 
+
+          padding: 20px
+
+   }
+
+  
+
+
+body {
+
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+
+    font-size: 100%;
+
+    width: 96%;                       
+
+    max-width: 960px;
+
+    background-color: white;
+
+    margin: 15px auto;
+
+    padding: 15px 0;
+
+    border: 2px solid blue;
+
+}
