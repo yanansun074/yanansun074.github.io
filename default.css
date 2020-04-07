@@ -1,7 +1,5 @@
 h1{
 
-    color: rgb(172, 83, 83);
-
     font-size: 18px;
 
     height: 75%;
@@ -11,6 +9,12 @@ h1{
     font-family: 'Source Code Pro', monospace;
 
     text-shadow: 4px 4px 4px #aaa;
+    
+    background-color:Maroon; 
+    
+    color:White; 
+    
+    text-align:center
 
     } 
 
