@@ -27,7 +27,6 @@
         position: absolute; 
         top: 120px; 
         right: 0;
-        background-color: white; 
 
    }
 
@@ -44,8 +43,6 @@ p1 {
 
     max-width: 960px;
 
-    background-color: white;
-
     margin: 15px auto;
 
     padding: 15px 0;
@@ -53,3 +50,20 @@ p1 {
     border: 2px solid blue;
 
 }
+
+.top{
+    position:fixed;
+    width:100%;
+    z-index:1
+    top:0
+}
+#top head{
+    color:#000;
+    background-color:#fff
+    font-size:24px
+    max-width:1200px;margin:auto
+}
+        
+  .padding{
+      padding:8px 16px
+    }
