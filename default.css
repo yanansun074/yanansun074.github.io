@@ -67,3 +67,6 @@ p1 {
   .padding{
       padding:8px 16px
     }
+#first grid{
+    padding:0 8px
+    padding-top:16px!important;padding-bottom:16px!important
