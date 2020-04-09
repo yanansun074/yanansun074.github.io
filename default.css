@@ -32,7 +32,11 @@
 
   
 
-
+body{
+    background_image: url(shaun-meintjes-cYoTB2rPEjA-unsplash.jpg)
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
 p1 {
 
     font-family: Verdana, Arial, Helvetica, sans-serif;
