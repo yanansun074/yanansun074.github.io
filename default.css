@@ -21,12 +21,12 @@
 
     #main {
         width: 300px;
-       border: 15px;
+       border: 15px; solid, red
        padding: 50px;
-        margin: 20px;
+        margin: 100px,100px, 150px, 80px
         position: absolute; 
         top: 120px; 
-        right: 0;
+        right: 0px;
 
    }
 
