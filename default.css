@@ -10,9 +10,9 @@
 
     text-shadow: 4px 4px 4px #aaa;
     
-    background-color:Maroon; 
+    background-color: Maroon; 
     
-    color:White; 
+    color: White; 
     
     text-align:center
 
@@ -21,25 +21,26 @@
 
     #main {
         width: 300px;
-       border: 15px; solid, red
+       border: 15px solid red;
        padding: 50px;
-        margin: 100px,100px, 150px, 80px
+        margin: 100px 100px 150px 80px;
         position: absolute; 
         top: 120px; 
         right: 0px;
+        box-sizing: border-box;
 
    }
 
   
 
 body{
-    background-image:  shaun-meintjes-cYoTB2rPEjA-unsplash.jpg
+    background-image:  url(shaun-meintjes-cYoTB2rPEjA-unsplash.jpg);
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
 p1 {
 
-    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-family: Verdana Arial Helvetica sans-serif;
 
     font-size: 100%;
 
@@ -63,14 +64,15 @@ p1 {
 }
 #top head{
     color:#000;
-    background-color:#fff
-    font-size:24px
-    max-width:1200px;margin:auto
+    background-color:#fff;
+    font-size:24px;
+    max-width:1200px;
+    margin:auto
 }
         
   .padding{
-      padding:8px 16px
+      padding:8px 16px;
     }
 #first grid{
-    padding:0 8px
+    padding:0 8px;
     padding-top:16px!important;padding-bottom:16px!important
