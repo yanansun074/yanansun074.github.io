@@ -33,12 +33,6 @@
 
   
 
-body{
-    background-image:  url(shaun-meintjes-cYoTB2rPEjA-unsplash.jpg);
-    background-repeat: no-repeat;
-    background-position: right top;
-    background-attachment: fixed;
-}
 body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 p1 {
 
@@ -66,10 +60,13 @@ p1 {
 }
 #top head{
     color:#000;
-    background-color:#fff;
     font-size:24px;
     max-width:1200px;
     margin:auto
+    background-image:  url(shaun-meintjes-cYoTB2rPEjA-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
 }
         
   .padding{
