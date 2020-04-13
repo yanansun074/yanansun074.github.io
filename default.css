@@ -62,8 +62,8 @@ p1 {
     color:#000;
     font-size:24px;
     max-width:1200px;
-    margin:auto
-    background-image:  shaun-meintjes-cYoTB2rPEjA-unsplash.jpg;
+    margin:auto;
+    background-image:  url(shaun-meintjes-cYoTB2rPEjA-unsplash.jpg);
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
