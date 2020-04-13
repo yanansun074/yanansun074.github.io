@@ -38,6 +38,8 @@ body{
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
+}
+body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 p1 {
 
     font-family: Verdana Arial Helvetica sans-serif;
@@ -75,4 +77,4 @@ p1 {
     }
 #first grid{
     padding:0 8px;
-    padding-top:16px!important;padding-bottom:16px!important
+    padding-top:16px;padding-bottom:16px
